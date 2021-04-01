@@ -74,7 +74,8 @@ If you done with the initial exercises and you want to push yourself, here are s
 
 - Make the todos render in different lists, depending on the `status` of the todo. If the todo is `PENDING` render the todo in the `Pending List`. If the todo is `DONE`, render it in the `Done List`
 - Create a new state for your app for a feature you like (for example create a `Pending | Done` Filter where you display only the `pending` todos or only the  `done` todos. (you may not need the seperate Lists from the challange before anymore. It depends how you want to display things)
-- 
+<img width="532" alt="Bildschirmfoto 2021-04-01 um 15 42 02" src="https://user-images.githubusercontent.com/54703643/113302904-d2273500-9300-11eb-9602-236de98183f9.png">
+
 - Create in the todo a button which let you change the name of the todo and safe it.
 
 Have fun!
